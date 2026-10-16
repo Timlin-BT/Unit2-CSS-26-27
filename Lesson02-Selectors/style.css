@@ -1,0 +1,23 @@
+body
+{
+    background-color: rgb(244, 117, 255);;
+}
+.stats {background-color: aquamarine;}
+
+.black{background-color: aliceblue;
+
+    /* comma is needed, if not css silently fails */
+}
+h1, h2 {font-family: 'Courier New', Courier, monospace;}
+.player-card{color: gold;}
+.btn {background-color: yellow;}
+/* (a) in the player card class */
+.player-card a  {
+    background-color: aqua;
+}
+#banner {
+    border-bottom:  3px solid #5AdB8c;
+}
+.about p {font-style: italic;}
+.tag, .stat {font-weight: bold;}
+.footer p {color: #aec0d8;}
