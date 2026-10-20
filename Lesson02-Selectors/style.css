@@ -19,5 +19,4 @@ h1, h2 {font-family: 'Courier New', Courier, monospace;}
     border-bottom:  3px solid #5AdB8c;
 }
 .about p {font-style: italic;}
-.tag, .stat {font-weight: bold;}
-.footer p {color: #aec0d8;}
+.tag, .stat {font-weight: bold;}.footer p {color: #aec0d8;}
