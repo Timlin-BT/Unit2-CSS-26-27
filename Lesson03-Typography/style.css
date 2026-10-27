@@ -45,8 +45,15 @@ body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 h1,h2,h3 { font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
             font-weight: 700;}
 /* STEP 2 ▸ sizes in rem, room between the lines */
-
+h1{font: size 1rem;}
+p{line-height: 1.5;}
 /* STEP 3 ▸ small uppercase labels: .eyebrow and nav a */
+.eyebrow, nav a { 
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    font-size: .9rem;
+    font-weight: 100;
+}
 
 /* CHECK ▸ every paragraph easy to read from your seat? */
 
